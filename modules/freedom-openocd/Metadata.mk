@@ -1,5 +1,5 @@
 # Git repos, branches, commits and folders to get source code for the tool we are building
-RISCV_OPENOCD_GITURL := git@github.com:riscv/riscv-openocd.git
+RISCV_OPENOCD_GITURL := https://github.com:riscv/riscv-openocd.git
 RISCV_OPENOCD_BRANCH := riscv
 RISCV_OPENOCD_COMMIT := a83ac8102208fe43029e31a20ea00eb5f242f5e3
 RISCV_OPENOCD_FOLDER := riscv-openocd

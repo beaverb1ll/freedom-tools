@@ -1,5 +1,5 @@
 # Git repos, branches, commits and folders to get source code for the tool we are building
-XC3SPROG_GITURL := git@github.com:sifive/xc3sprog.git
+XC3SPROG_GITURL := https://github.com:sifive/xc3sprog.git
 XC3SPROG_BRANCH := master
 XC3SPROG_COMMIT := 893bd2463fecb5953f2603c8800ffd823861ce37
 XC3SPROG_FOLDER := xc3sprog

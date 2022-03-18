@@ -1,9 +1,9 @@
 # Git repos, branches, commits and folders to get source code for the tool we are building
-RISCV_ISA_SIM_GITURL := git@github.com:riscv/riscv-isa-sim.git
+RISCV_ISA_SIM_GITURL := https://github.com:riscv/riscv-isa-sim.git
 RISCV_ISA_SIM_BRANCH := master
 RISCV_ISA_SIM_COMMIT := f1bcfac7ebe334ebdef39a5d59e18e37eef813a5
 RISCV_ISA_SIM_FOLDER := riscv-isa-sim
-FREEDOM_ELF2HEX_GITURL := git@github.com:sifive/freedom-elf2hex.git
+FREEDOM_ELF2HEX_GITURL := https://github.com:sifive/freedom-elf2hex.git
 FREEDOM_ELF2HEX_BRANCH := master
 FREEDOM_ELF2HEX_COMMIT := 7bcc57b85fdb7002dffb6e7515d8b8ecac32cfcd
 FREEDOM_ELF2HEX_FOLDER := freedom-elf2hex

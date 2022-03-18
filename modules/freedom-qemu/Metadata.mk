@@ -1,5 +1,5 @@
 # Git repos, branches, commits and folders to get source code for the tool we are building
-RISCV_QEMU_GITURL := git@github.com:sifive/qemu.git
+RISCV_QEMU_GITURL := https://github.com:sifive/qemu.git
 RISCV_QEMU_BRANCH := v5.2.0-rvv-rvb-zfh
 RISCV_QEMU_COMMIT := 3870dd3ef58a5c74673388785ad3bfa655af23a4
 RISCV_QEMU_FOLDER := riscv-qemu
