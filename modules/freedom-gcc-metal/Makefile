@@ -55,6 +55,7 @@ BARE_METAL_MULTILIBS_GEN := \
 	rv32emc_zba_zbb-ilp32e-- \
 	rv32emac-ilp32e-- \
 	rv32emac_zba_zbb-ilp32e-- \
+	rv32i-ilp32-- \
 	rv32ic-ilp32-- \
 	rv32ic_zba_zbb-ilp32-- \
 	rv32iac-ilp32-- \
