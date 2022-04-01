@@ -1,0 +1,7 @@
+FROM registry.fedoraproject.org/fedora:latest
+LABEL org.opencontainers.image.source https://github.com/beaverb1ll/freedom-tools
+
+ADD ./riscv64-unknown-elf-toolchain-10.2.0-2020.12.8-x86_64-linux-centos6.tar.gz /
+ADD ./riscv-toolchain.sh /etc/profile.d/
+
+
